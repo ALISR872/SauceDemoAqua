@@ -1,5 +1,6 @@
 Feature: Slider practice
 
+  @as
   Scenario: Slider practice scenario
     Given the user is on the slider page
     When the user moves the slider to 61
